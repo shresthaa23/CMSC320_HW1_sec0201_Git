@@ -3,3 +3,9 @@ We should use Git because it's a version control system that let's people save c
 
 Q2: What field could data science be applied to? Give an Example.
 Data science can be applied to sports because of all of the data that can be used to better understand the game, the players playstyles and current ability. Like in football, coaches can use data science to figure out if it's better to go for it on fourth down vs punting, they can understand how often opposing teams defenes run man vs zone schemes and they can see how effective current plays are for the team in average yards. 
+
+Q3: What is the difference between Merging and Rebasing?
+Merging combines two branches together completely whereas rebasing combines a previous commit to the current commit. Merging is used when multipled branches are going to be joined together but rebasing is often used when on your own, when multiple commits or conflicts are occuring. 
+
+Q4: What are you looking forward to this semester?
+I'm looking forward to learning about the key concepts in data science and getting started with machine learning. Outside of this class, I'm just excited to work on projects and work with my friends so that we can grow all together. 
