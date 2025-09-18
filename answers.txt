@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Data science can be applied to sports because of all of the data that can be used to better understand the game, the players playstyles and current ability. Like in football, coaches can use data science to figure out if it's better to go for it on fourth down vs punting, they can understand how often opposing teams defenes run man vs zone schemes and they can see how effective current plays are for the team in average yards. 
